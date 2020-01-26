@@ -96,7 +96,6 @@ img,
 video {
  max-width:100%;
  height:auto;
- margin-right:40px;
 }
 @supports (display:block) {
  svg {
